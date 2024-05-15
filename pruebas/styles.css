@@ -1,0 +1,139 @@
+body{
+    background-color: rgb(55, 129, 129);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.main{
+    width: 100%;
+    height: 100%;
+    
+    display: grid;
+    grid-template-areas: 
+        "header header header header"
+        "nav nav nav nav"
+        "agenda agenda agenda lateral"
+        "footer footer footer footer"
+    ;
+}
+
+.header{
+        height: auto;
+        grid-area: header;
+        border: 5px solid black;
+        background-color: lightblue;
+}
+
+.navbar{
+    height: auto;
+    grid-area: nav;
+    border: 5px solid red;
+    background-color: lightblue;
+}
+
+.agenda table{
+    width: 100%;
+}
+.agenda{
+    height: auto;
+    grid-area: agenda;
+    border: 5px solid green;
+    background-color: lightblue;
+}
+
+.lateral{
+    height: auto;
+    grid-area: lateral;
+    border: 5px solid purple;
+    background-color: lightblue;
+}
+
+.footer{
+    height: auto;
+    grid-area: footer;
+    border: 5px solid yellow;
+    background-color: lightblue;
+}
+
+.day-1 {
+    grid-area: lunes;
+}
+
+.day-2 {
+    grid-area: martes;
+}
+
+.day-3 {
+    grid-area: miercoles;
+}
+
+.day-4 {
+    grid-area: jueves;
+}
+
+.day-5 {
+    grid-area: viernes;
+}
+
+.day-6 {
+    grid-area: sabado;
+}
+
+.day-7 {
+    grid-area: domingo;
+}
+
+.hour-1 {
+    grid-area: hour-1;
+}
+
+.hour-2 {
+    grid-area: hour-2;
+}
+
+.hour-3 {
+    grid-area: hour-3;
+}
+
+.hour-4 {
+    grid-area: hour-4;
+}
+
+.hour-5 {
+    grid-area: hour-5;
+}
+
+.hour-6 {
+    grid-area: hour-6;
+}
+
+.hour-7 {
+    grid-area: hour-7;
+}
+
+.hour-8 {
+    grid-area: hour-8;
+}
+
+.hour-9 {
+    grid-area: hour-9;
+}
+
+.hour-10 {
+    grid-area: hour-10;
+}
+
+.hour-11 {
+    grid-area: hour-11;
+}
+
+.hour-12 {
+    grid-area: hour-12;
+}
+
+.hour-13 {
+    grid-area: hour-13;
+}

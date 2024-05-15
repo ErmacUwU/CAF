@@ -1,1 +1,5 @@
 Bitacora de progreso de sistema para CAF
+
+14/05/2024
+Hello World
+Empece el proyecto de React y tambien hice una carpeta para poder estar haciendo prubas de lo que se vaya ocupando en el proyecto, el dia de hoy empece a hacer pruebas para hacer el calendario, hacerlo con CSS GRID es un poco complejo, asi que recorde que HTML tiene tablas asi que mejor hice la estructura con una tabla, el dia de mañana lo que intentare es de alguna manera hacer un forms en la barra lateral que pueda registrar datos en la tabla.
