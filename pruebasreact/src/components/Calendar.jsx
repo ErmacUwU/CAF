@@ -6,10 +6,14 @@ import interactionPlugin from "@fullcalendar/interaction"
 const Calendar = () => {
   return (
     <div>
+      {/* 
         <FullCalendar
         plugins={[dayGridPlugin,timeGridPlugin,interactionPlugin]}
         initialView={"timeGridWeek"}
         />
+        */}
+
+        
     </div>
   )
 }

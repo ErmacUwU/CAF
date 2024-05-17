@@ -1,0 +1,11 @@
+/* src/components/Abril.css */
+
+ol {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+}
+
+#first {
+    grid-column-start: 2; /* Asumiendo que el 1 de abril de 2024 cae en lunes */
+}

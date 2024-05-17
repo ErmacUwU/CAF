@@ -1,0 +1,11 @@
+/* src/components/Marzo.css */
+
+ol {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+}
+
+#first {
+    grid-column-start: 6; /* Asumiendo que el 1 de marzo de 2024 cae en viernes */
+}
