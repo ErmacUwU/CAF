@@ -17,3 +17,11 @@ https://midu.dev/crea-un-calendario-con-tres-lineas-de-css/
 
 17/05/2024
 Hello World  
+Termine todos los meses de la tabla
+
+18/05/2024
+Hello World
+Seguimos agredando algo de css mientras me informo sobre como transportar la informacion del forms al calendario.
+
+19/05/2024
+Hello World
