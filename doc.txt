@@ -25,3 +25,12 @@ Seguimos agredando algo de css mientras me informo sobre como transportar la inf
 
 19/05/2024
 Hello World
+Hoy estamos probando la libre ract-big-calendar y parece que esta sera la que usaremos, es simple, mas customizable y gratis asi que no habra problemas por exceso de info o algo asi, almenos eso se ve hasta ahora, seguiremos haciendo pruebas.
+Ya se logro hacer algo basico! react-big-calendar sera la API que usare para la agenda, sigo estudiandola un poco mas pero mire varias opciones y esta me convence mas, seguire este tutorial para practicarlo un poco mas y desarrollare ya bien una beta de lo que sera la agenda, anexo la serie de videos: 
+https://www.youtube.com/watch?v=j-B8WXUvrQo&list=PLZdBNNxWmMHhyCdcwcH0BSuVeJPYqWFYq
+
+21/05/2024
+Hello World
+Hoy dejaremos un poco de lado el calendario, ya elegi que sera react-big-calendar asi que volvemos a lo basico, ya tenemos una idea de lo que se quiere almacenar asi que hoy haremos algunos forms y intentaremos almacenar esa informacion de terapistas, pacientes y citas en objetos para despues poder relacionarlo con la agenda y empezar a trabajar en la correlacion de datos.
+Update: Esto sera lo que estaremos usando para manejar la informacion que almacenemos, en este ejemplo se muestra como se almacena un JSON, ese tipo de archivos son los que estaremos almacenando en nuestra base de datos de MONGODB!
+Anexo video: https://www.youtube.com/watch?v=1MxevPIZgVc
