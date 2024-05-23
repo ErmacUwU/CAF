@@ -34,3 +34,7 @@ Hello World
 Hoy dejaremos un poco de lado el calendario, ya elegi que sera react-big-calendar asi que volvemos a lo basico, ya tenemos una idea de lo que se quiere almacenar asi que hoy haremos algunos forms y intentaremos almacenar esa informacion de terapistas, pacientes y citas en objetos para despues poder relacionarlo con la agenda y empezar a trabajar en la correlacion de datos.
 Update: Esto sera lo que estaremos usando para manejar la informacion que almacenemos, en este ejemplo se muestra como se almacena un JSON, ese tipo de archivos son los que estaremos almacenando en nuestra base de datos de MONGODB!
 Anexo video: https://www.youtube.com/watch?v=1MxevPIZgVc
+
+22/05/2024 
+Hello World
+React tiene una libreria llama React Hook Form que vuelve mas sencillo el utilzar estados de react para manejar la informacion de los forms, hoy estuve informandome al respecto y eso estare utilizando para la informacion
